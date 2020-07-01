@@ -1,1 +1,1 @@
-# -Adblock-Rule
+# Adblock-Rule
